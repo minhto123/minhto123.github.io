@@ -1,0 +1,28 @@
+{
+  "tb_student": [
+      {
+          "id": 0,
+          "name": "Mai"
+      },
+      {
+          "id": 1,
+          "name": "Linh"
+      },
+      {
+          "id": 2,
+          "name": "Nam"
+      },
+      {
+          "id": 3,
+          "name": "Linh"
+      },
+      {
+          "id": 4,
+          "name": "Nam"
+      },
+      {
+          "id": 5,
+          "name": "Nam"
+      }
+  ]
+}
